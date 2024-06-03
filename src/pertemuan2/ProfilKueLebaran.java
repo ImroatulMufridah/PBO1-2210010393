@@ -13,6 +13,7 @@ public class ProfilKueLebaran {
         public static void main(String[] args){
         KueLebaran nastar = new KueLebaran ();
         KueLebaran kastengel = new KueLebaran ();
+        KueLebaran kastenge3 = new KueLebaran ();
         
         nastar.Atas_Nama = "Rika";
         nastar.Ukuran = "200gr";
